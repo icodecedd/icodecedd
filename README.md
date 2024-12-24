@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Cedrick+Mariano!;" />
 </h1>
 
-<h3 align="center">Aspiring software developer passionate about coding and technology.</h3>
+<h3 align="center">Aspiring software developer passionate about coding and technology</h3>
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 🎯 Personal goals: Developing leadership skills, critical thinking, and adaptability
 
-⚡ Fun fact: I love **potassium**.
+⚡ Fun fact: I love **potassium**
 
  </div>
 
@@ -25,10 +25,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma" />
     <img src="https://skillicons.dev/icons?
-        i=python,c,java"
-        /><br>
+        i=vscode,github,figma" />
+    <img src="https://skillicons.dev/icons?
+        i=python,c,java" /><br>
 </div>
 
 <br/>
