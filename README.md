@@ -26,9 +26,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?
-        i=vscode,github,figma" />
+i=vscode,github,figma" />
     <img src="https://skillicons.dev/icons?
-        i=python,c,java" /><br>
+i=python,c,java" /><br>
 </div>
 
 <br/>
