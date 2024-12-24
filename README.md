@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @icodecedd
-- 👀 I’m interested in basketball
+- 👀 I’m interested in math
 - 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to collaborate on group projects
 - 📫 How to reach me? marianocedrick3@gmail.com
