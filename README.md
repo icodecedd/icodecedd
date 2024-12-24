@@ -25,8 +25,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,eclipse,pycharm&perline=5" />
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,laravel&perline=5" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,eclipse,pycharm,python,c,cpp,java,laravel&perline=5" /><br>
 </div>
 
 <br/>
