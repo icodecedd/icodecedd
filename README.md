@@ -16,7 +16,7 @@
 
 🎯 Personal goals: Developing leadership skills, critical thinking, and adaptability
 
-⚡ Fun fact: I love **potassium**
+⚡ Fun fact: I love **potassium** (not the actual potassium)
 
  </div>
 
