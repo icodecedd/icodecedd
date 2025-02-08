@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **python gui**
+ 🔭 I’m currently working on **Java Exercises**
  
  🌱 I’m currently learning **Python, Java, Laravel**
 
