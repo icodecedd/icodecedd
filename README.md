@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Java Exercises**
+ 🔭 I’m currently working on **PUPSIS Student Portal**
  
- 🌱 I’m currently learning **Python, Java, Laravel**
+ 🌱 I’m currently learning **Python and Java**
 
 🎯 Personal goals: Developing leadership skills, critical thinking, and adaptability
 
-⚡ Fun fact: I love **potassium** (not the actual potassium)
+⚡ Fun fact: I love **potassium** (not the actual potassium tho)
 
  </div>
 
