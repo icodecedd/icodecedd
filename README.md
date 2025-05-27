@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **PUPSIS Student Portal**
  
- 🌱 I’m currently learning **Python and Java**
+ 🌱 I’m currently learning **Java and JavaFX**
 
 🎯 Personal goals: Developing leadership skills, critical thinking, and adaptability
 
