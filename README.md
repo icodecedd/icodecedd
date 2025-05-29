@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **PUPSIS Student Portal**
+ 🔭 I’m currently working on **PUP Student Information System**
  
  🌱 I’m currently learning **Java and JavaFX**
 
