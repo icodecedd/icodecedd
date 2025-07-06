@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **PUP Student Information System**
  
- 🌱 I’m currently learning **Java and JavaFX**
+ 🌱 I’m currently learning **HTML, CSS, and JS**
 
 🎯 Personal goals: Developing leadership skills, critical thinking, and adaptability
 
