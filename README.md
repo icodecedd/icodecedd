@@ -1,6 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=icodecedd.icodecedd" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=icodecedd.icodecedd" mb=3/>
 
-<img src=""/> 
+<div>![This is a Programmer GIF](programmer.gif)</div>
 
 <h1 align="center">
 <img 
