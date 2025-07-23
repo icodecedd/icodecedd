@@ -1,6 +1,6 @@
 <!-- Profile GIF -->
 <p align="center">
-  <img src="assets/programmer.gif" alt="This is a Programmer GIF" width="800"/>
+  <img src="assets/programmer.gif" alt="Programmer GIF" width="800"/>
 </p>
 
 <!-- Typing Animation -->
@@ -11,43 +11,36 @@
   />
 </div>
 
-<hr/>
+---
 
-<!-- About Me -->
-<h2>
-  <img src="assets/developer.gif" alt="Developer GIF" width="40"/> About Me
-</h2>
+## <img src="assets/developer.gif" alt="Developer GIF" width="30"/> About Me
 
-- 💼 I’m currently working on [ReQuest](https://github.com/icodecedd/ReQuest)
-- 📚 I’m currently learning **PostgresSQL, Express, React, and Node.js**
-- 🎯 **Personal goals:** To become a well-rounded software engineer
-- 📫 How to reach me marianocedrick3@gmail.com
-<hr/>
+- 💼 Currently working on [**ReQuest**](https://github.com/icodecedd/ReQuest)  
+- 📚 Currently learning **PostgreSQL, Express, React, and Node.js**  
+- 🎯 **Personal Goal:** To grow as a well-rounded and innovative software engineer  
+- 📫 **Reach me at:** marianocedrick3@gmail.com  
 
-<!-- Skills -->
-<h2>⚒️ Languages • Frameworks • Tools</h2>
+---
+
+## ⚒️ Languages • Frameworks • Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,github,pycharm,idea,supabase,mysql,postgres,python,c,java,html,css,javascript,react,nodejs,express&perline=8" alt="Skills Icons" />
 </p>
 
-<hr/>
+---
 
-<!-- GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=icodecedd&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="160"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=icodecedd&theme=dark&hide_border=false" alt="GitHub Streak" height="160"/>
 </p>
 
-<hr/>
+---
 
-<!-- GitHub Trophy -->
-<h2>📊 GitHub Trophy</h2>
+## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=icodecedd&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
-
-
-
