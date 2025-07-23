@@ -1,6 +1,6 @@
 <!-- Profile GIF -->
 <p align="center">
-  <img src="programmer.gif" alt="This is a Programmer GIF" width="800"/>
+  <img src="assets/programmer.gif" alt="This is a Programmer GIF" width="800"/>
 </p>
 
 <!-- Typing Animation -->
@@ -14,7 +14,7 @@
 <br/>
 
 <!-- About Me -->
-## 👋 About Me  
+## <img src="assets/developer.gif" alt="Developer GIF" width="40"/> About Me
   
   🔭 I’m currently working on **upskilling in web development to prepare for the next school year**  
   
