@@ -15,7 +15,7 @@
 
 ## <img src="assets/developer.gif" alt="Developer GIF" width="30"/> About Me
 
-- 💼 Currently working on [**ReQuest**](https://github.com/icodecedd/ReQuest)  
+- 💼 Currently working on [**ReQuestor**](https://github.com/icodecedd/ReQuestor)  
 - 📚 Currently learning **PostgreSQL, Express, React, and Node.js**  
 - 🎯 **Personal Goal:** To grow as a well-rounded and innovative software engineer  
 - 📫 **Reach me at:** marianocedrick3@gmail.com  
