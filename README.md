@@ -1,7 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=icodecedd.icodecedd" />
 
+<img src=""/> 
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Cedrick+Joseph+Mariano!;+An+Upcoming+Third+Year+Student" />
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=780&height=50&lines=Hello+World!+👨‍💻;I'm+Cedrick+Joseph+Mariano!;BSIT+Student+%7C+Future+Software+Engineer;Building+Ideas+One+Line+of+Code+at+a+Time" 
+/>
 </h1>
 
 <h3 align="center">Aspiring software engineer passionate about coding and technology</h3>
