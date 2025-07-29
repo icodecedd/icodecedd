@@ -36,11 +36,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=icodecedd&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="160"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=icodecedd&theme=dark&hide_border=false" alt="GitHub Streak" height="160"/>
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=icodecedd&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
