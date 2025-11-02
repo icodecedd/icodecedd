@@ -15,8 +15,8 @@
 
 ## <img src="assets/developer.gif" alt="Developer GIF" width="30"/> About Me
 
-- 💼 Currently working on [**ReQuestor**](https://github.com/icodecedd/ReQuestor)  
-- 📚 Currently learning **PostgreSQL, Express, React, and Node.js**  
+- 💼 Currently working on [**Orbyte Studio**](https://github.com/icodecedd/orbyte-studio-v2)  
+- 📚 Currently mastering **PostgreSQL, Express, React, and Node.js**  
 - 🎯 **Personal Goal:** To grow as a well-rounded and innovative software engineer  
 - 📫 **Reach me at:** marianocedrick3@gmail.com  
 
