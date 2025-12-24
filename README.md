@@ -129,5 +129,5 @@ const cedrick = {
 </div>
 
 <div align="center">
-  <sub>Designed & Built by Cedrick Joseph Mariano • 2024</sub>
+  <sub>Designed & Built by Cedrick Joseph Mariano • 2025</sub>
 </div>
