@@ -81,12 +81,6 @@ const cedrick = {
 </div>
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icodecedd&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=8&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&border_color=30363d"/>
-  
-</div>
-
-<div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=icodecedd&theme=dark&hide_border=true&background=0d1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=9ca3af&border_radius=8" alt="GitHub Streak Stats" height="180"/>
 </div>
 
