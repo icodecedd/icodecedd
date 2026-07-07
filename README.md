@@ -74,12 +74,6 @@ const cedrick = {
 
 </div>
 
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=icodecedd&theme=dracula)](https://git.io/streak-stats)
-
-</div>
-
 <br>
 
 <div align="center">
