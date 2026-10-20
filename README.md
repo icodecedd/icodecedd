@@ -28,7 +28,7 @@ const cedrick = {
   goal: "Software Engineer",
   location: "Manila, Philippines 🇵🇭",
   education: "BS Information Technology",
-  learning: ["MongoDB","Express","React","NodeJS"],
+  learning: ["PostgreSQL","Express","React","NodeJS"],
   project: "Readmify"
 };
 ```
